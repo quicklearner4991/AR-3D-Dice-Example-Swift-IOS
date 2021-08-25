@@ -1,5 +1,5 @@
-# CoreML-Detects-Objects-From-Image-Swift-ios
-It detects object from image with results from Higher percentage to Lower percentage
+# AR-3D-Dice-Example-Swift-IOS
+You can add 3D Dice using ARKit , Roll them and Delete them.
 XCODE 12.4 Swift 5
 
 INSTALLATION NOTES:-
@@ -12,6 +12,8 @@ INSTALLATION NOTES:-
 
 
 
-![Alt text](https://github.com/quicklearner4991/CoreML-Detect-Objects-From-Image-Swift-ios/blob/main/CoreML1.png)
-![Alt text](https://github.com/quicklearner4991/CoreML-Detect-Objects-From-Image-Swift-ios/blob/main/CoreML2.png)
+![Alt text](https://github.com/quicklearner4991/AR-3D-Dice-Example-Swift-IOS/blob/main/IMG_20210825_115908_1.jpg)
+![Alt text](https://github.com/quicklearner4991/AR-3D-Dice-Example-Swift-IOS/blob/main/IMG_20210825_115910_1.jpg)
+![Alt text](https://github.com/quicklearner4991/AR-3D-Dice-Example-Swift-IOS/blob/main/IMG_20210825_115916_1.jpg)
+![Alt text](https://github.com/quicklearner4991/AR-3D-Dice-Example-Swift-IOS/blob/main/IMG_20210825_115919.jpg)
 
